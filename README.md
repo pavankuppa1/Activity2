@@ -13,3 +13,10 @@ PREVIEW OF LOGIN SCREEN:
 These are the images of the login screen after the register activity.
 ![screenshot_20180327-084727](https://user-images.githubusercontent.com/30207554/38140861-6fe4d794-3453-11e8-926e-409dd6372291.png)
 ![screenshot_20180327-084747](https://user-images.githubusercontent.com/30207554/38140862-701570de-3453-11e8-87fc-0e2bfb5edb17.png)
+QUESTIONS:
+This is the questions activity generated after the login activity.This page consists of 8 questions.
+![screenshot_20180327-084755](https://user-images.githubusercontent.com/30207554/38140941-bf8cc90a-3453-11e8-849e-ef99468c6326.png)
+![screenshot_20180327-084801](https://user-images.githubusercontent.com/30207554/38140943-bfc02a5c-3453-11e8-9009-0c85d064cd07.png)
+RESULT:
+This is the result of the quiz which you have attempted.It shows a toast message of your score.
+![screenshot_20180327-084826](https://user-images.githubusercontent.com/30207554/38140944-bfed8858-3453-11e8-8aa7-006e1acb3f86.png)
