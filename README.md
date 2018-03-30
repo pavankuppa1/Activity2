@@ -1,3 +1,4 @@
+
 # Activity2
 
 DESCRIPTION:
@@ -9,3 +10,6 @@ These are the images of the preview generated of the register activity.
 ![screenshot_20180327-084713](https://user-images.githubusercontent.com/30207554/38140762-d3c4955c-3452-11e8-95c7-2dd57cb03368.png)
 ![screenshot_20180327-084629](https://user-images.githubusercontent.com/30207554/38140763-d3fb0c4a-3452-11e8-8eef-c73d5bb2b1e6.png)
 PREVIEW OF LOGIN SCREEN:
+These are the images of the login screen after the register activity.
+![screenshot_20180327-084727](https://user-images.githubusercontent.com/30207554/38140861-6fe4d794-3453-11e8-926e-409dd6372291.png)
+![screenshot_20180327-084747](https://user-images.githubusercontent.com/30207554/38140862-701570de-3453-11e8-87fc-0e2bfb5edb17.png)
